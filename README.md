@@ -48,6 +48,6 @@ Users should be able to:
 
 - Website - [Alamin](https://alaminmd.web.app/)
 - Frontend Mentor - [@unearthly](https://www.frontendmentor.io/profile/un-earthly)
-- Twitter - [@alamin](https://www.linkedin.com/in/alamin-md)
+- Linked in - [@alamin](https://www.linkedin.com/in/alamin-md)
 
 
